@@ -22,7 +22,7 @@ PicckR solves that by making delivery simple, affordable, and transparent.
 - Onboarding and Account Creation
 - Single Order delivery
 - Multi-stop delivery (one order, many drop-offs)  
-- Admin dashboard feature
+- Admin dashboard feature for the Admins to track orders and metrics
 - Real-time tracking and Notifications  
 - Verification for drivers(driving license, NiN, Road worthiness Certificate)
 - Availability & Route management(save preferred routes, Go offline/online )
